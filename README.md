@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+  <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Darwin+Thomas&center=true">
+</h1>
 
 <!--
 **drakkken/drakkken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
